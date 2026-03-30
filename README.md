@@ -163,17 +163,5 @@ Projektet har 20+ testklasser som täcker controllers och services med xUnit och
 
 ---
 
-## Teamet
-
-| Namn | Ansvar |
-|------|--------|
-| Daniel, Nicolina, Charlie | Backend – Auth, API |
-| Daniel, Nicolina, Charlie | Backend – Movies, Admin |
-| John | Frontend – Blazor UI |
-| John | Frontend – Komponenter |
-| Jelal, Alex | Tester, Shared DTOs |
-| Jelal, Alex | Docs, Integration |
-
----
 
 _Redovisning: 27 mars 2026_
